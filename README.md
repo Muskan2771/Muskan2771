@@ -1,3 +1,18 @@
+💫 Hi 👋, I'm Muskan
+
+A passionate Data Scientist || Machine Learning Engineer || AI Developer from India 🇮🇳
+
+Email Me 👉 ✉️ shaikhmuskan2771@gmail.com For Collaboration / Projects / Opportunities 😊
+
+🔭 I’m currently working on: AI projects like MemeSense AI and data-driven applications
+🌱 I’m currently learning: Machine Learning, Deep Learning, NLP, and Advanced Python
+👯 I’m looking to collaborate on: AI/ML projects, Open Source Data Science projects
+🤔 I’m looking for help with: Improving large-scale AI model deployment and MLOps
+💬 Ask me about: Python, Machine Learning, Data Analysis, AI Projects
+📫 How to reach me: shaikhmuskan2771@gmail.com
+😄 Pronouns: She/Her
+⚡ Fun fact: I love turning data into smart AI solutions 🚀
+
 # 💫 About Me:
 I am a Data Science enthusiast passionate about building AI-powered applications and solving real-world problems using Python, Machine Learning, and Data Analysis. I enjoy learning new technologies and working on practical projects.
 
@@ -11,6 +26,12 @@ I am a Data Science enthusiast passionate about building AI-powered applications
 ![](https://github-readme-stats.shion.dev/api?username=Muskan2771&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Muskan2771&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Muskan2771&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Muskan2771&theme=radical&no-frame=false&no-bg=true&margin-w=4)
